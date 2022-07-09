@@ -79,7 +79,7 @@ while True:
     deltatime = end_time - start_time
     FPS = 1.0 / (deltatime)
     print(FPS)
-    timer -= deltatime 
+    timer -= deltatime
 window.destroy()
 
 
