@@ -1,4 +1,3 @@
-from array import array
 import time
 import tkinter as tk
 import keyboard
