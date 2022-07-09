@@ -1,4 +1,3 @@
-from array import array
 import time
 import pygame as pyg
 import keyboard
